@@ -1,0 +1,4 @@
+com/practice/react/model/Client.class
+com/practice/react/controller/ClientsController.class
+com/practice/react/ReactApplication.class
+com/practice/react/repositorory/ClientRepository.class
