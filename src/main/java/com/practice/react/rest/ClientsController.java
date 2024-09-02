@@ -1,4 +1,4 @@
-package com.practice.react.controller;
+package com.practice.react.rest;
 
 import com.practice.react.model.Client;
 import com.practice.react.repositorory.ClientRepository;

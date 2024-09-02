@@ -15,6 +15,9 @@ public class Client {
     private String name;
     private String email;
 
+    public Client(Long l, String johnDoe, String mail) {
+    }
+
     public Long getId() {
         return id;
     }
